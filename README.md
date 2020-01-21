@@ -51,6 +51,7 @@ Use Caffeine in a community provided integration:
  * [Quarkus][quarkus]: Supersonic Subatomic Java
  * [Scaffeine][scaffeine]: Scala wrapper for Caffeine
  * [ScalaCache][scala-cache]: Simple caching in Scala
+ * [Cloffeine] [cloffeine]: Clojure wrapper for Caffeine
  * [Camel][camel]: Routing and mediation engine
  * [JHipster][jhipster]: Generate, develop, deploy
  * [Druid][druid]: Real-time analytics
@@ -122,6 +123,7 @@ Snapshots of the development version are available in
 [spring]: https://docs.spring.io/spring/docs/current/spring-framework-reference/integration.html#cache-store-configuration-caffeine
 [scala-cache]: https://github.com/cb372/scalacache
 [scaffeine]: https://github.com/blemale/scaffeine
+[cloffeine]: https://github.com/AppsFlyer/cloffeine
 [hbase]: https://hbase.apache.org
 [cassandra]: http://cassandra.apache.org
 [solr]: https://lucene.apache.org/solr
